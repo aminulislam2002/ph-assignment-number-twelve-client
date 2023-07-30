@@ -1,0 +1,119 @@
+[
+  { 
+    "name": "Basketball",
+    "description": "Basketball is a team sport in which two teams of five players each try to score points by shooting a ball through a hoop.",
+    "image": "https://img.freepik.com/free-vector/basketball-ball-falling-into-ring-net-backboard_1441-3648.jpg?size=626&ext=jpg&uid=R93922666&ga=GA1.2.235952763.1681062999&semt=sph",
+    "instructorName": "John Smith",
+    "instructorEmail": "johnsmi@gmail.com",
+    "availableSeats": 75,
+    "price": 7500
+  },
+  {
+    "name": "Tennis",
+    "description": "Tennis is a racket sport that can be played individually against a single opponent or between two teams of two players each.",
+    "image": "https://img.freepik.com/free-vector/two-racket-tennis-ball-illustration_24877-60158.jpg?size=626&ext=jpg&uid=R93922666&ga=GA1.2.235952763.1681062999&semt=sph",
+    "instructorName": "Emily Johnson",
+    "instructorEmail": "emilyjoh@gmail.com",
+    "availableSeats": 60,
+    "price": 8000
+  },
+  {
+    "name": "Swimming",
+    "description": "Swimming is a water-based sport that involves propelling oneself through water using the limbs.",
+    "image": "https://img.freepik.com/free-photo/male-swimmer-swimming-butterfly-stroke_171337-7613.jpg?size=626&ext=jpg&uid=R93922666&ga=GA1.1.235952763.1681062999&semt=sph",
+    "instructorName": "Michael Anderson",
+    "instructorEmail": "michaela@gmail.com",
+    "availableSeats": 80,
+    "price": 6000
+  },
+  {
+    "name": "Volleyball",
+    "description": "Volleyball is a team sport in which two teams of six players each try to score points by hitting a ball over a net and into the opponent's court.",
+    "image": "https://img.freepik.com/free-photo/young-female-volleyball-player-isolated-white-wall-woman-sport-s-equipment-shoes-sneakers-training-practicing-concept-sport-healthy-lifestyle-motion-movement_155003-28111.jpg?size=626&ext=jpg&uid=R93922666&ga=GA1.2.235952763.1681062999&semt=sph",
+    "instructorName": "Sarah Davis",
+    "instructorEmail": "sarahdav@gmail.com",
+    "availableSeats": 90,
+    "price": 5500
+  },
+  {
+    "name": "Golf",
+    "description": "Golf is a club-and-ball sport in which players use various clubs to hit balls into a series of holes on a course in as few strokes as possible.",
+    "image": "https://img.freepik.com/free-photo/golf-club-with-ball_1160-442.jpg?size=626&ext=jpg&uid=R93922666&ga=GA1.2.235952763.1681062999&semt=sph",
+    "instructorName": "David Thompson",
+    "instructorEmail": "davidtho@gmail.com",
+    "availableSeats": 70,
+    "price": 7000
+  },
+  {
+    "name": "Cricket",
+    "description": "Cricket is a bat-and-ball game played between two teams of eleven players each, on a field with a rectangular 22-yard-long pitch.",
+    "image": "https://img.freepik.com/free-vector/gradient-ipl-cricket-illustration_23-2149205212.jpg?size=626&ext=jpg&uid=R93922666&ga=GA1.2.235952763.1681062999&semt=sph",
+    "instructorName": "James Wilson",
+    "instructorEmail": "jameswil@gmail.com",
+    "availableSeats": 80,
+    "price": 6000
+  },
+  {
+    "name": "Football",
+    "description": "Football, also known as soccer, is a team sport in which two teams of eleven players each try to score goals by kicking a ball into the opponent's net.",
+    "image": "https://img.freepik.com/free-photo/soccer-players-action-professional-stadium_654080-1130.jpg?size=626&ext=jpg&uid=R93922666&ga=GA1.2.235952763.1681062999&semt=sph",
+    "instructorName": "Daniel Martinez",
+    "instructorEmail": "danielma@gmail.com",
+    "availableSeats": 85,
+    "price": 5500
+  },
+  {
+    "name": "Badminton",
+    "description": "Badminton is a racquet sport played using racquets to hit a shuttlecock across a net.",
+    "image": "https://img.freepik.com/free-vector/badminton-player_23-2148172441.jpg?size=626&ext=jpg&uid=R93922666&ga=GA1.2.235952763.1681062999&semt=sph",
+    "instructorName": "Anna Lee",
+    "instructorEmail": "annalee@gmail.com",
+    "availableSeats": 50,
+    "price": 10000
+  },
+  {
+    "name": "Table Tennis",
+    "description": "Table tennis, also known as ping pong, is a sport in which two or four players hit a lightweight ball back and forth across a table using small bats.",
+    "image": "https://img.freepik.com/free-vector/people-playing-table-tennis_23-2148662482.jpg?size=626&ext=jpg&uid=R93922666&ga=GA1.2.235952763.1681062999&semt=ais",
+    "instructorName": "Robert Johnson",
+    "instructorEmail": "robertjo@gmail.com",
+    "availableSeats": 55,
+    "price": 9500
+  },
+  {
+    "name": "Chess",
+    "description": "Chess is a strategy board game played on a checkered gameboard with 64 squares arranged in an 8x8 grid.",
+    "image": "https://img.freepik.com/free-vector/realistic-chess-board-with-3d-black-white-figures-set_1284-13712.jpg?size=626&ext=jpg&uid=R93922666&ga=GA1.2.235952763.1681062999&semt=sph",
+    "instructorName": "Sophia Adams",
+    "instructorEmail": "sophiada@gmail.com",
+    "availableSeats": 60,
+    "price": 9000
+  },
+  {
+    "name": "Cycling",
+    "description": "Cycling is a sport that involves riding bicycles, either for recreational or competitive purposes.",
+    "image": "https://img.freepik.com/free-vector/road-cycling-concept-illustration_114360-9201.jpg?size=626&ext=jpg&uid=R93922666&ga=GA1.2.235952763.1681062999&semt=sph",
+    "instructorName": "Matthew Brown",
+    "instructorEmail": "matthbro@gmail.com",
+    "availableSeats": 70,
+    "price": 7000
+  },
+  {
+    "name": "Bungee Jumping",
+    "description": "Bungee jumping is an extreme sport in which a person jumps from a tall structure while connected to a large elastic cord.",
+    "image": "https://img.freepik.com/free-vector/man-ann-woman-climbing-rope_1308-81328.jpg?size=626&ext=jpg&uid=R93922666&ga=GA1.2.235952763.1681062999&semt=ais",
+    "instructorName": "Olivia Taylor",
+    "instructorEmail": "oliviaty@gmail.com",
+    "availableSeats": 75,
+    "price": 6500
+  },
+  {
+    "name": "Baseball",
+    "description": "Baseball is a bat-and-ball game played between two teams of nine players each, who take turns batting and fielding.",
+    "image": "https://img.freepik.com/free-vector/baseball-club-black-elements-set_1284-52088.jpg?size=626&ext=jpg&uid=R93922666&ga=GA1.2.235952763.1681062999&semt=sph",
+    "instructorName": "William Anderson",
+    "instructorEmail": "williand@gmail.com",
+    "availableSeats": 95,
+    "price": 5000
+  }
+]
